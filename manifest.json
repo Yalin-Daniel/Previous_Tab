@@ -1,0 +1,21 @@
+{
+  "manifest_version": 3,
+  "name": "Previous Tab Switcher",
+  "version": "1.0",
+  "permissions": [ "tabs" ],
+  "background": {
+    "service_worker": "background.js"
+  },
+  "action": {
+    "default_title": "Go to previous tab",
+    "default_icon": "icon.png"
+  },
+  "commands": {
+    "go-back-to-previous-tab": {
+      "suggested_key": {
+        "default": "Ctrl+Shift+Y"
+      },
+      "description": "Switch to the previous tab"
+    }
+  }
+}
