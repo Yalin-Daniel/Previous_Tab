@@ -1,6 +1,5 @@
 # Previous_Tab
 A lightweight Chrome extension that lets you instantly return to the previous tab you were on.  
-Perfect for people who work with many tabs and windows open and keep losing track of where they were.
 
 ---
 ## 🔍 The Problem
@@ -17,7 +16,6 @@ Chrome doesn't have a built-in "go to previous tab" button – only back/forward
 ## 💡 The Solution
 **Previous Tab Switcher** remembers your last active tab.  
 Click the extension icon to jump straight back to it.  
-No more guessing. No more hunting.
 
 ---
 
